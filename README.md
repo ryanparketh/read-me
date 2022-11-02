@@ -5,8 +5,8 @@ This is a read me generator that was created using node.js
 
 
 
-## Live Website
-[link to live website](https://drive.google.com/file/d/16hfZ2YZ4gU3v-VpvpY95bXKXmkSx88GO/view)
+## Screencastify
+[link to screencastify](https://drive.google.com/file/d/16hfZ2YZ4gU3v-VpvpY95bXKXmkSx88GO/view)
 
 
 ## Screenshot 
